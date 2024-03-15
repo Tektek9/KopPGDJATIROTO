@@ -3,7 +3,7 @@ Laravel Koperasi PG Djatiroto
 
 Template Admin Lte
 
-Sotewe Koperasi
+mulai start lagi
 
 Nama DB Newkop
 
